@@ -26,7 +26,7 @@ void printInvertedTriangle()
 
 int main()
 {
-    printf("正三角九九乘法表：\n");
+    printf("正三角九九乘法表123：\n");
     printPositiveTriangle();
     printf("倒三角九九乘法表：\n");
     printInvertedTriangle();
